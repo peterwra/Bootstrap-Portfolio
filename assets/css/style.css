@@ -3,7 +3,9 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/background.gif");
+  /* background: url("../images/background.gif"); */
+  background: url("../images/sebastien-gabriel-353369-unsplash.jpg");
+  background-size: 100%;
 }
 
 * {
@@ -149,7 +151,7 @@ h3, h2 {
 }
 
 .work img {
-  width: 100%;
+  /* width: 100%; */
   border: 0 none;
   opacity: 0.8;
 }
