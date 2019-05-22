@@ -3,9 +3,9 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  /* background: url("../images/background.gif"); */
-  background: url("../images/sebastien-gabriel-353369-unsplash.jpg");
-  background-size: 100%;
+  background-image: url("../images/sebastien-gabriel-353369-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 * {
